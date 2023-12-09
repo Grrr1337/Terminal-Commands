@@ -209,7 +209,7 @@ These commands form the foundation of Linux command-line operations. Refer to th
 
 ## Author / Contributor
 
-These snippents were gathered and organized by **Vladimir Balbanov**.
+These snippents were gathered and organized by **Vladimir Balabanov** / username: __Grrr1337__.
 
 ## Useful YouTube links:
 
