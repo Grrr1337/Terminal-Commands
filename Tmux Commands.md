@@ -4,13 +4,13 @@ This is a **CheatSheet** README.md file that provides information on the classif
 
 
 # Table of Contents
-1. [Session Management](#1-session-management)
-2. [Window Management](#2-window-management)
-3. [Pane Management](#3-pane-management)
-4. [Detach and Attach](#4-detach-and-attach)
-5. [Miscellaneous](#5-miscellaneous)
-6. [Hierarchy Overview](#6-hierarchy-overview)
-7. [Author / Contributor](#7-author-or-contributor)
+1. [Session Management](#session-management)
+2. [Window Management](#window-management)
+3. [Pane Management](#pane-management)
+4. [Detach and Attach](#detach-and-attach)
+5. [Miscellaneous](#miscellaneous)
+6. [Hierarchy Overview](#hierarchy-overview)
+7. [Author / Contributor](#author--contributor)
 
 
 ## Session Management
@@ -154,34 +154,31 @@ tmux list-commands
 tmux show-options -g
 ```
 
-# `tmux` Hierarchy Explanation
-
-In `tmux`, the hierarchy consists of sessions, windows, and panes. Here's a brief explanation of each:
-
-## Session
-
-- A `tmux` session is the highest-level container.
-- It represents a collection of one or more windows and their associated panes.
-- Sessions are useful for organizing and managing multiple tasks or projects within a single terminal.
-
-## Window
-
-- Within a `tmux` session, you can have multiple windows.
-- Each window is an independent workspace that can contain one or more panes.
-- Windows are useful for organizing different tasks or activities related to the same project or session.
-
-## Pane
-
-- Panes are subdivisions within a window, allowing you to view and interact with multiple terminal sessions simultaneously.
-- A window can be split into multiple panes horizontally or vertically.
-- Each pane behaves like an independent terminal, and you can run different commands in each pane.
-
-
 ## Hierarchy Overview
+
+### `tmux` Hierarchy Explanation
 
 - A `tmux` session contains one or more windows.
 - Each window can be divided into multiple panes.
 - Panes provide a way to work on multiple tasks within a single window.
+
+In `tmux`, the hierarchy consists of sessions, windows, and panes. Here's a brief explanation of each:
+
+### Session
+- A `tmux` session is the highest-level container.
+- It represents a collection of one or more windows and their associated panes.
+- Sessions are useful for organizing and managing multiple tasks or projects within a single terminal.
+
+### Window
+- Within a `tmux` session, you can have multiple windows.
+- Each window is an independent workspace that can contain one or more panes.
+- Windows are useful for organizing different tasks or activities related to the same project or session.
+
+### Pane
+- Panes are subdivisions within a window, allowing you to view and interact with multiple terminal sessions simultaneously.
+- A window can be split into multiple panes horizontally or vertically.
+- Each pane behaves like an independent terminal, and you can run different commands in each pane.
+
 
 ### Common Operations
 
