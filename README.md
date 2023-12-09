@@ -9,7 +9,13 @@ This repository serves as a collection of cheatsheets for various terminal comma
 - [Tmux Commands](Tmux%20Commands.md): Explore this cheatsheet to learn and master the commands for Tmux, a terminal multiplexer that enhances your terminal workflow.
 
 ## How to Use
+### Online mode
 
+<span style="color:red;">A **common scenario** is when you're at work and have forgotten how to use a particular terminal command or perform a specific task.</span>
+ Simply explore through the repository from here, and the information will always be readily available.
+
+
+### Offline mode
 1. **Clone the Repository:**
 
     ```bash
@@ -22,9 +28,9 @@ This repository serves as a collection of cheatsheets for various terminal comma
     cd Terminal-Commands
     ```
 
-3. **Open with Visual Studio Code:**
+3. **Open with ``Visual Studio Code``:**
 
-    To easily preview the `.md` files, open the repository in Visual Studio Code:
+    To easily preview the `.md` files, open the repository in Visual Studio Code (but you can also use other IDE of your choice):
 
     ```bash
     code .
