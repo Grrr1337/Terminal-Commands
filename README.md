@@ -2,11 +2,20 @@
 
 This repository serves as a collection of cheatsheets for various terminal commands, helping you navigate and utilize different terminals more effectively.
 
+
 ## Cheatsheets Available
 
 - [Linux Commands](Linux%20Commands.md): This cheatsheet provides a quick reference for essential commands in the Linux terminal, covering a wide range of tasks.
 
 - [Tmux Commands](Tmux%20Commands.md): Explore this cheatsheet to learn and master the commands for Tmux, a terminal multiplexer that enhances your terminal workflow.
+
+- [Batch Script Commands](Batch%20Script%20Commands.md): Find the common **Batch Script** commands for the **Command Prompt** on Windows in this detailed cheatsheet.
+
+- [Vim Commands](Vim%20Commands.md): Useful cheatsheet related to **vim** and **nvim** with this cheatsheet, providing useful commands and shortcuts.
+
+- [PowerShell Commands](PowerShell%20Commands.md): Navigate through a comprehensive cheatsheet detailing the classification and usage of common **PowerShell** commands.
+
+- [Network Commands](Network%20Commands.md): A cheatsheet for system administrators, offering insights into common network commands used across **Linux**, **PowerShell**, and **Command Prompt**.
 
 ## How to Use
 ### Online mode
